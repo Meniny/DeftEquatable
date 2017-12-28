@@ -1,0 +1,16 @@
+PODS:
+  - DeftEquatable (1.0.0)
+
+DEPENDENCIES:
+  - DeftEquatable (from `../`)
+
+EXTERNAL SOURCES:
+  DeftEquatable:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DeftEquatable: f618c927a98d7d6abf9cf6af050e64a77a18c839
+
+PODFILE CHECKSUM: 504025c28037d7aff6abec12f4d94d563945c3cc
+
+COCOAPODS: 1.3.1

@@ -1,0 +1,6 @@
+framework module DeftEquatable {
+  umbrella header "DeftEquatable-umbrella.h"
+
+  export *
+  module * { export * }
+}
