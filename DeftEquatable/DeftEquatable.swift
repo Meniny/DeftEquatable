@@ -172,7 +172,4 @@ extension String: DeftEquatable {}
 extension Int: DeftEquatable {}
 extension Double: DeftEquatable {}
 extension Float: DeftEquatable {}
-extension CGFloat: DeftEquatable {}
-extension CGSize: DeftEquatable {}
-extension CGRect: DeftEquatable {}
 extension Set: DeftEquatable {}
